@@ -23,8 +23,8 @@ import android.util.Log;
 
 import androidx.annotation.NonNull;
 
-import org.lineageos.lib.phone.SensitivePhoneNumbers;
-import org.lineageos.lib.phone.spn.Item;
+import com.sosp.lib.phone.SensitivePhoneNumbers;
+import com.sosp.lib.phone.spn.Item;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -38,7 +38,7 @@ import com.android.dialer.storage.StorageComponent;
 import com.android.dialer.util.DialerUtils;
 import com.android.dialer.util.IntentUtil;
 
-import org.lineageos.lib.phone.SensitivePhoneNumbers;
+import com.sosp.lib.phone.SensitivePhoneNumbers;
 
 /** Helper class to handle all post call actions. */
 public class PostCall {
